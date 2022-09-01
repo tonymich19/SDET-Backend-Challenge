@@ -36,4 +36,4 @@ See that `test` folder directory is all about abstracting the logical implanted 
 ## Pipeline
 This project uses [GitHub Actions](https://github.com/features/actions) to run the all the tests in a pipeline.
 The idea is to simulate a real life CI Pipeline where we'd run a switch of tests automatically when deploying some new feature into `master` branch.
-Also, for this purpose, this projects is useing a plugin called `peaceiris`. This way, we can access the last execution reports throught this link: https://tonymich19.github.io/SDET-Backend-Challenge/3/
+Also, for this purpose, this projects is using a plugin called `peaceiris`. This way, we can access the last execution reports throught this link: https://tonymich19.github.io/SDET-Backend-Challenge/
