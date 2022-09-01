@@ -12,14 +12,4 @@ public class PhotoModel {
     private String earth_date;
     private RoverModel rover;
 
-
-
-    //    public PhotoModel(Integer id, Integer sol, CameraModel camera, String imgSrc, String earthDate, RoverModel rover){
-//        this.id = id;
-//        this.sol = sol;
-//        this.camera = camera;
-//        this.imgSrc = imgSrc;
-//        this.earthDate = earthDate;
-//        this.rover = rover;
-//    }
 }
