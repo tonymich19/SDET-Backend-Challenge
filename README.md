@@ -1,5 +1,6 @@
 ## Build status
-
+[![Build and Test](https://github.com/tonymich19/SDET-Backend-Challenge/actions/workflows/test-execution.yml/badge.svg?branch=master)](https://github.com/tonymich19/SDET-Backend-Challenge/actions/workflows/test-execution.yml)
+[![pages-build-deployment](https://github.com/tonymich19/SDET-Backend-Challenge/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/tonymich19/SDET-Backend-Challenge/actions/workflows/pages/pages-build-deployment)
 
 # SDET-test
 ## Challenge
