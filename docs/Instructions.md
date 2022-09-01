@@ -6,7 +6,8 @@
 
 ## How to execute the tests
 If you run `mvn test` all the tests will execute because it's the regular Maven lifecycle to run all the tests.
-However, it's possible running for generating test reporsts using the command `mvn clean test allure:report`.
+However, it's possible running for generating test reporsts using the command `mvn clean test allure:report`. 
+Also, is possible to execute these tests by pushing or doing a PR in a fork of this project. <- for reporting purposes is important to fork the branches aswell.
 
 ### Generating the test report
 
@@ -35,3 +36,4 @@ See that `test` folder directory is all about abstracting the logical implanted 
 ## Pipeline
 This project uses [GitHub Actions](https://github.com/features/actions) to run the all the tests in a pipeline.
 The idea is to simulate a real life CI Pipeline where we'd run a switch of tests automatically when deploying some new feature into `master` branch.
+Also, for this purpose, this projects is useing a plugin called `peaceiris`. This way, we can access the last execution reports throught this link: https://tonymich19.github.io/SDET-Backend-Challenge/3/
