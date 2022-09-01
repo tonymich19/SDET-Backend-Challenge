@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 01 06:38:01 GMT 2022","Thu Sep 01 06:38:01 GMT 2022","12","","NasaPhotoTest","","NasaPhotoTest","scenario3","Retrieve and compare the first 10 Mars photos made by ""Curiosity"" on 1000 sol and on Earth date equal to 1000 Martian sol.",""
+"passed","Thu Sep 01 06:38:00 GMT 2022","Thu Sep 01 06:38:00 GMT 2022","16","","NasaPhotoTest","","NasaPhotoTest","scenario1","Retrieve the first 10 Mars photos made by ""Curiosity"" on 1000 Martian sol.",""
+"passed","Thu Sep 01 06:38:01 GMT 2022","Thu Sep 01 06:38:01 GMT 2022","5","","NasaPhotoTest","","NasaPhotoTest","scenario4","Validate that the amounts of pictures that each ""Curiosity"" camera took on 1000 Mars sol is not greater than 10 times the amount taken by other cameras on the same date.",""
+"passed","Thu Sep 01 06:38:00 GMT 2022","Thu Sep 01 06:38:01 GMT 2022","1610","","NasaPhotoTest","","NasaPhotoTest","scenario2","Retrieve the first 10 Mars photos made by ""Curiosity"" on Earth date equal to 1000 Martian sol.",""
